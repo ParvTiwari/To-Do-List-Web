@@ -2,7 +2,7 @@
 
 A simple and clean To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add, delete, and update tasks directly in the browser.
 
-🚀 Features
+**🚀 Features**
 
    - ✅ Add new tasks
 
